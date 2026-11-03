@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vocaloid PV Director"
+  short_description: "Design story-led lyric PVs with rigorous visual QA"
+  default_prompt: "Use $vocaloid-pv-director to turn my song, lyrics, and reference art into a coherent lyric PV."
